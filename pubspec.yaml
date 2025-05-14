@@ -18,9 +18,9 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  # assets:
-  #  - images/a_dot_burr.jpeg
-  #  - images/a_dot_ham.jpeg
+  assets:
+    - assets/apple11.jpg
+  # Ejemplos comentados de otras configuraciones:
   # fonts:
   #   - family: Schyler
   #     fonts:
